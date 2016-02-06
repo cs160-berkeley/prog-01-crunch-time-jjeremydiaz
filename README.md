@@ -15,10 +15,10 @@ See [CS160 Crunch Time] (http://youtu.be/KlT81qvgBSk?hd=1)
 
 ## Screenshots
 
-<img src="screenshots/main page" height="400" alt="Screenshot"/>
-<img src="screenshots/pushups page" height="400" alt="Screenshot"/>
-<img src="screenshots/results page" height="400" alt="Screenshot"/>
-<img src="screenshots/results2" height="400" alt="Screenshot"/>
+<img src="screenshots/main_page.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/pushups_page.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/results_page.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/results2.jpg" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
