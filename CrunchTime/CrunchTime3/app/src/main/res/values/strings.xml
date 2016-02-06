@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pushup_activity">Pushups</string>
+    <string name="title_activity_situp">SitupActivity</string>
+    <string name="title_activity_jumpingjacks_activity">Jumpingjacks_activity</string>
+    <string name="title_activity_jogging">JoggingActivity</string>
+</resources>
