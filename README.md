@@ -11,11 +11,14 @@ Jeremy Diaz ([j.jeremy.diaz@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [CS160 Crunch Time] (http://youtu.be/KlT81qvgBSk?hd=1)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/main page" height="400" alt="Screenshot"/>
+<img src="screenshots/pushups page" height="400" alt="Screenshot"/>
+<img src="screenshots/results page" height="400" alt="Screenshot"/>
+<img src="screenshots/results2" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
