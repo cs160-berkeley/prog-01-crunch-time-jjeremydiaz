@@ -1,10 +1,13 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch Time is an app used for converting calories. Users can interact with one of four supported excercises. Once
+an excercise is selected, the user will be able to input how much of an excercise they did and will be able to see
+how many calories they burned. They will also see how much of the other excercises they must do in order to burn
+the same amount of calories. The user will then be able to go back and try the other excercises at their leisure.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Jeremy Diaz ([j.jeremy.diaz@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
@@ -16,7 +19,6 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* Thank you stack exchange.
+ 
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
